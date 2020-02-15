@@ -28,4 +28,13 @@ object Form2: TForm2
     TabOrder = 0
     Text = 'Edit1'
   end
+  object Memo1: TMemo
+    Left = 272
+    Top = 56
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 1
+  end
 end

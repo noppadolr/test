@@ -10,6 +10,7 @@ type
   TForm2 = class(TForm)
     Label1: TLabel;
     Edit1: TEdit;
+    Memo1: TMemo;
   private
     { Private declarations }
   public
